@@ -7,7 +7,8 @@ I'm Jean-Léon (🇫🇷 🇬🇧), an enthusiast programmer, working these days
 - [pynotes](https://github.com/JeanLeonHenry/pynotes) (Python 🐍), a teaching tool to generate student reports from a test marking spreasheet.
 
 ### 🌱 I'm learning
-- Go 🐹 : a CLI typing test app is coming soon to this Github. I'm using the lovely [Bubbletea](https://github.com/charmbracelet/bubbletea/) TUI library.
+- Go 🐹
+    - e.g. [this typing test app](https://github.com/JeanLeonHenry/typingTest). I'm using the lovely [Bubbletea](https://github.com/charmbracelet/bubbletea/) TUI library.
 
 <!--
 **JeanLeonHenry/JeanLeonHenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
