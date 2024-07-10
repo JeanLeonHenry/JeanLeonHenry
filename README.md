@@ -9,6 +9,7 @@ I'm Jean-Léon (🇫🇷 🇬🇧), an enthusiast programmer, working these days
 ### 🌱 I'm learning
 - Go 🐹
     - [I made a typing test app](https://github.com/JeanLeonHenry/typingTest). I'm using the lovely [Bubbletea](https://github.com/charmbracelet/bubbletea/) TUI library.
+- Javascript 🟨 : I'm planning on making the aforementionned `pynotes` into a proper web app.
 
 <!--
 **JeanLeonHenry/JeanLeonHenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
