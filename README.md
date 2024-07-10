@@ -8,7 +8,7 @@ I'm Jean-Léon (🇫🇷 🇬🇧), an enthusiast programmer, working these days
 
 ### 🌱 I'm learning
 - Go 🐹
-    - e.g. [this typing test app](https://github.com/JeanLeonHenry/typingTest). I'm using the lovely [Bubbletea](https://github.com/charmbracelet/bubbletea/) TUI library.
+    - [I made a typing test app](https://github.com/JeanLeonHenry/typingTest). I'm using the lovely [Bubbletea](https://github.com/charmbracelet/bubbletea/) TUI library.
 
 <!--
 **JeanLeonHenry/JeanLeonHenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
