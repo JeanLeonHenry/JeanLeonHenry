@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm Jean-Léon (🇫🇷 🇬🇧), an enthusiast programmer, working these days as a math teacher.
+I'm Jean-Léon (🇫🇷 🇬🇧), a programming enthusiast, working these days as a math teacher.
 
 ### ✔️ I worked on
 - [mathalea](https://github.com/mathalea/mathalea) (TypeScript 🟦), an interactive exercise platform aimed at highschool math.
-- [pynotes](https://github.com/JeanLeonHenry/pynotes) (Python 🐍), a techears tool to generate student reports from a test marking spreasheet.
+- [pynotes](https://github.com/JeanLeonHenry/pynotes) (Python 🐍), a teacher's tool to generate student reports from a test marking spreasheet.
 
 ### 🌱 I'm learning
 - Go 🐹
