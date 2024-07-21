@@ -5,14 +5,13 @@ I'm Jean-Léon (🇫🇷 🇬🇧), a programming enthusiast, working these days
 ### ✔️ I worked on
 - [mathalea](https://github.com/mathalea/mathalea) (TypeScript 🟦), an interactive exercise platform aimed at highschool math.
 - [pynotes](https://github.com/JeanLeonHenry/pynotes) (Python 🐍), a teacher's tool to generate student reports from a test marking spreasheet.
+- [A typing test app](https://github.com/JeanLeonHenry/typingTest) (Go 🐹). I'm using the lovely [Bubbletea](https://github.com/charmbracelet/bubbletea/) TUI library.
 
 ### 🌱 I'm learning
-- Go 🐹
-    - ✔️ [I made a typing test app](https://github.com/JeanLeonHenry/typingTest). I'm using the lovely [Bubbletea](https://github.com/charmbracelet/bubbletea/) TUI library.
-    - 🚧 I'm making a media library browser. Repo coming soon.
-- Back-end development : [my profile on boot.dev](https://www.boot.dev/u/runnypotential95)
+- Back-end development ([my profile on boot.dev](https://www.boot.dev/u/runnypotential95)).
 
 ### 🔭 Projects
+- [mymedia](https://github.com/JeanLeonHenry/mymedia) : a media library browser
 - I'm planning on making the aforementionned `pynotes` into a proper web app.
 
 <!--
