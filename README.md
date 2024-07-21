@@ -9,7 +9,7 @@ I'm Jean-Léon (🇫🇷 🇬🇧), a programming enthusiast, working these days
 
 ### 🌱 I'm working on
 - learning back-end development on [boot.dev](https://www.boot.dev/u/runnypotential95).
-- [mymedia](https://github.com/JeanLeonHenry/mymedia) : a media library browser
+- [mymedia](https://github.com/JeanLeonHenry/mymedia) : a media library browser.
 
 ### 🔭 Projects
 - I'm planning on making the aforementionned `pynotes` into a proper web app.
