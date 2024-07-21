@@ -7,11 +7,11 @@ I'm Jean-Léon (🇫🇷 🇬🇧), a programming enthusiast, working these days
 - [pynotes](https://github.com/JeanLeonHenry/pynotes) (Python 🐍), a teacher's tool to generate student reports from a test marking spreasheet.
 - [A typing test app](https://github.com/JeanLeonHenry/typingTest) (Go 🐹). I'm using the lovely [Bubbletea](https://github.com/charmbracelet/bubbletea/) TUI library.
 
-### 🌱 I'm learning
-- Back-end development ([my profile on boot.dev](https://www.boot.dev/u/runnypotential95)).
+### 🌱 I'm working on
+- learning back-end development on [boot.dev](https://www.boot.dev/u/runnypotential95).
+- [mymedia](https://github.com/JeanLeonHenry/mymedia) : a media library browser
 
 ### 🔭 Projects
-- [mymedia](https://github.com/JeanLeonHenry/mymedia) : a media library browser
 - I'm planning on making the aforementionned `pynotes` into a proper web app.
 
 <!--
